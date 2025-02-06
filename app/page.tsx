@@ -203,7 +203,7 @@ export default function Home() {
 
               <div className="relative order-first lg:order-last mt-[-600px]">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-hYEm0RTAbPFQtMwHran4CErHUZ7utu.png"
+                  src="https://www.aganitha.ai/wp-content/uploads/2024/02/ai-1024x745.png"
                   alt="DNA Structure"
                   width={600}
                   height={600}
@@ -211,7 +211,7 @@ export default function Home() {
                   priority
                 />
               </div>
-
+              
             </div>
           </div>
         </section>
