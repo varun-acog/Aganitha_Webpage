@@ -68,10 +68,9 @@ export default function Home() {
                   <div className="absolute inset-0 bg-blue-500/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-lg"></div>
                 </div>
                 <p className="text-sm text-gray-700 max-w-3xl animate-fade-in">
-                  We have participated in the PMWC conference which provides an exceptional forum for the exchange of
-                  information about the latest advances in technology (e.g., DNA sequencing technology), in clinical
-                  implementation (e.g., cancer and beyond), research, and in all aspects related to the regulatory and
-                  reimbursement sectors.
+                  Join us at the PMWC conference which provides an exceptional forum for the exchange of
+                  information about the latest advances in technology, in clinical
+                  implementation, research, and in all aspects related to healthcare and biotech sectors.
                 </p>
               </div>
             </div>
